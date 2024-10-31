@@ -24,11 +24,3 @@ This project demonstrates the trade-offs between different data structures in Pr
 
 - Both methods yield the same MST cost (2080).
 - The Heap-based approach is considerably faster and requires fewer operations, especially advantageous as the graph size grows.
-
-## Usage
-
-To run the MST comparison, clone this repository and compile the code with your preferred compiler:
-
-```bash
-g++ main.cpp -o mst_comparison
-./mst_comparison
